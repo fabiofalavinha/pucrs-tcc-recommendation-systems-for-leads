@@ -1,4 +1,4 @@
-# Lead Qualification Models
+# Modelos de Qualificação de Leads
 
 Este repositório contém os arquivos e modelos utilizados para a qualificação de leads usando diferentes algoritmos de machine learning. Os dados utilizados são fictícios e foram gerados especificamente para este estudo. O repositório inclui:
 
